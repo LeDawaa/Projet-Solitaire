@@ -1,2 +1,3 @@
 # Projet-Solitaire
- d
+
+Solitaire jouable dans le terminal
